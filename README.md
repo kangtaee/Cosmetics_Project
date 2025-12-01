@@ -1,4 +1,4 @@
-# 💄 올리브영 리뷰 분석을 통한 피부 고민별 맞춤 화장품 추천 프로젝트
+#  올리브영 리뷰 분석을 통한 피부 고민별 맞춤 화장품 추천 프로젝트
 > **KoELECTRA 기반의 리뷰 분류 및 BERTopic 토픽 모델링**
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red) ![HuggingFace](https://img.shields.io/badge/Transformers-4.0%2B-yellow) ![License](https://img.shields.io/badge/License-MIT-green)
