@@ -1,7 +1,7 @@
 # 💄 올리브영 리뷰 분석을 통한 피부 고민별 맞춤 화장품 추천 프로젝트
 > **KoELECTRA 기반의 감성 분석 및 BERTopic 토픽 모델링 활용**
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Transformers-4.0%2B-FFD21E?logo=huggingface&logoColor=black) ![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-43B02A?logo=selenium&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Transformers-4.0%2B-FFD21E?logo=huggingface&logoColor=black) ![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-43B02A?logo=selenium&logoColor=white) 
 
 ## 📌 1. 프로젝트 개요 (Overview)
 * **프로젝트명**: 올리브영 리뷰 데이터 분석을 통한 맞춤형 스킨케어 인사이트 도출
